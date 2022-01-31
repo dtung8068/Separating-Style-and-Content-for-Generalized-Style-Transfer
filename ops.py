@@ -1,6 +1,5 @@
 __author__ = 'yxzhang'
 import tensorflow as tf
-from tensorflow.contrib.layers.python.layers import batch_norm
 
 def conv(batch_input, out_channels, stride, kernel_size):
     with tf.variable_scope("conv"):
