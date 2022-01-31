@@ -87,7 +87,7 @@ def train():
             print("loading model from checkpoint")
             checkpoint = tf.train.latest_checkpoint(a.checkpoint)
             saver.restore(sess, checkpoint)
-            print 'ok'
+            print("ok")
 
         start = time.time()
         steps_per_epoch = int(len(target_path)/a.target_batch_size)
