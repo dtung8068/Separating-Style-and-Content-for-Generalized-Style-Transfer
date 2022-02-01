@@ -1,4 +1,4 @@
-First commit: Convert to Python3
+First commit: Convert to Python3  
 Original source: https://github.com/zhyxun/Separating-Style-and-Content-for-Generalized-Style-Transfer
 
 # Separating-Style-and-Content-for-Generalized-Style-Transfer
