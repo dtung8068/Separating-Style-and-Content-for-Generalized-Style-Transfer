@@ -1,4 +1,5 @@
 First commit: Convert to Python3
+Original source: https://github.com/zhyxun/Separating-Style-and-Content-for-Generalized-Style-Transfer
 
 # Separating-Style-and-Content-for-Generalized-Style-Transfer
 This repository contains the code (in Tensorflow) for the paper:<br>
